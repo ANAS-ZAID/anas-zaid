@@ -1,82 +1,196 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!--
+  ANAS ZAID — GitHub Profile README
+-->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+<div align="center">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hi, I'm Anas Zaid 👋
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+### IT Engineer · AI & Software Engineering
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+Building practical software, intelligent systems, and modern web applications.
 
-## &#x270d; Blog & Writing
+<br>
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+[![GitHub](https://img.shields.io/badge/GitHub-ANAS--ZAID-181717?style=for-the-badge&logo=github)](https://github.com/ANAS-ZAID)
 
-A sample of my recent articles:
+</div>
 
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-<!-- BLOG-POST-LIST:END -->
+---
 
-## &#x1f4c8; GitHub Stats
+## 👨‍💻 About Me
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+I'm an **IT Engineer** with a strong interest in **Artificial Intelligence, Python, C#, and Web Development**.
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+I enjoy turning ideas into practical software systems, from web applications and database-driven platforms to desktop applications and AI-powered solutions.
 
+My main areas of interest are:
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+- 🤖 Artificial Intelligence & Intelligent Systems
+- 🐍 Python Development
+- 💻 C# & Desktop Application Development
+- 🌐 Web Development
+- 🗄️ Database Systems
+- ⚙️ Software Engineering & Automation
 
-<!-- links to social media icons -->
+I care about writing practical software, understanding how systems work, and continuously improving my engineering skills.
 
-<!-- icons with padding -->
+---
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## 🧠 Core Strengths
 
-<!-- icons without padding -->
+<div align="center">
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+| Area | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | AI applications, intelligent systems, automation |
+| 🐍 Python | AI development, scripting, software development |
+| 💻 C# | Desktop applications, .NET, business systems |
+| 🌐 Web Development | HTML, CSS, PHP |
+| 🗄️ Databases | MySQL, SQL Server, database-driven applications |
+| ⚙️ Software Engineering | Application architecture, problem solving, system design |
 
+</div>
 
-<!-- links to your social media accounts -->
+---
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+## 🛠️ Technologies & Tools
 
+### Programming Languages
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,php" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,php" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Agent Computer Use
+
+**An AI-powered computer interaction project focused on enabling an intelligent agent to understand and interact with graphical user interfaces.**
+
+The project represents my main direction in **AI, intelligent automation, and computer-use systems**.
+
+**Focus:**  
+`Python` · `AI` · `Computer Interaction` · `Automation`
+
+🔗 [View Project](https://github.com/ANAS-ZAID/agent-computer-use)
+
+---
+
+## 💼 AccountingSystem
+
+A desktop accounting system built with **C# and Windows Forms**, backed by **Microsoft SQL Server**.
+
+The system includes accounting, branches, cash registers, warehouses, employees, customers, suppliers, sales, purchases, inventory transfers, permissions, currencies, and reporting.
+
+**Technologies:**  
+`C#` · `Windows Forms` · `.NET Framework 4.8` · `SQL Server` · `Entity Framework 6` · `RDLC`
+
+🔗 [View Project](https://github.com/ANAS-ZAID/AccountingSystem)
+
+---
+
+## 🏥 EndoCare
+
+A web-based management system for a specialized endocrinology and diabetes center.
+
+The system provides services and doctor information, user accounts, patient appointments, and database-driven functionality.
+
+**Technologies:**  
+`PHP` · `HTML` · `CSS` · `MySQL` · `XAMPP`
+
+🔗 [View Project](https://github.com/ANAS-ZAID/EndoCare)
+
+---
+
+## 💬 Desktop Chat App
+
+A desktop chat application developed with **C# Windows Forms** using a TCP client/server architecture and SQL Server for user data.
+
+**Technologies:**  
+`C#` · `Windows Forms` · `.NET Framework 4.8` · `TCP/IP` · `SQL Server`
+
+🔗 [View Project](https://github.com/ANAS-ZAID/desktop-chat-app)
+
+---
+
+# 🎓 Education
+
+**Bachelor's Degree in Information Technology / Computer Science**
+
+Focused on:
+
+`Software Development` · `Artificial Intelligence` · `Database Systems` · `Web Development` · `Information Technology`
+
+---
+
+# 🔬 Areas I'm Exploring
+
+I'm particularly interested in building systems at the intersection of:
+
+**Artificial Intelligence × Software Engineering × Automation**
+
+Current areas of interest include:
+
+- AI Agents
+- Computer-Use Systems
+- Intelligent Automation
+- Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Software Architecture
+- Database-driven Applications
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ANAS-ZAID&show_icons=true&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANAS-ZAID&hide_border=true" height="170">
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities related to:
+
+**AI · Software Engineering · IT · Web Development · Intelligent Systems**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ANAS-ZAID)
+
+</div>
+
+---
+
+<div align="center">
+
+### Build. Learn. Evolve. 🚀
+
+</div>

@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:as2025mv@gmail.com">
-  <img src="https://img.shields.io/badge/Email-as2025mv%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:eng.anaszaid@gmail.com">
+  <img src="https://img.shields.io/badge/Email-eng.anaszaid%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://t.me/King_A_S">
